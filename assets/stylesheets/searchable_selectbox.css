@@ -26,6 +26,8 @@
 .select2-results__option {
   font: 400 11px system-ui;
   font-family: Verdana, sans-serif;
+  text-decoration: underline;
+  padding: 8px 10px !important;
 }
 
 .select2-container--default .select2-selection--single .select2-selection__rendered {
