@@ -6,6 +6,7 @@
   appearance: none;
   box-sizing: border-box;
   vertical-align: middle;
+  backgroud-color: #f3f5f7;
   margin-top: 1px;
   margin-bottom: 1px;
   font: 400 11px system-ui;
@@ -14,7 +15,9 @@
   height: 24px;
   font-family: Verdana, sans-serif;
 }
-
+.icon-only icon-add{
+  color: #627a93 !important;
+}
 .select2-container--default .select2-selection--single:focus {
   border: 1px solid #5ad;
   outline: none;
@@ -27,7 +30,6 @@
 
 .select2-container--default .select2-selection--single .select2-selection__rendered {
   color: #333;
-  line-height: 22px;
 }
 
 fieldset#filters td.values .select2-container--default {
