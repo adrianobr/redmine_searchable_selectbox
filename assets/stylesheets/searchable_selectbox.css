@@ -33,9 +33,10 @@
 }
 
 fieldset#filters td.values .select2-container--default {
-  max-width: 230px; min-width: 140px;
+  max-width: 230px; min-width: 180px;
 }
 
 .select2-container {
-  min-width: 100px;
+  min-width: 180px;
+  margin: 0 0 0 10px;
 }
