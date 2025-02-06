@@ -25,11 +25,6 @@
   font-family: Verdana, sans-serif;
 }
 
-.select2-container--default .select2-selection--single .select2-selection__rendered {
-  color: #333;
-  line-height: 22px;
-}
-
 /* Adjust size */
 fieldset#filters td.values .select2-container--default {
   max-width: 230px;
